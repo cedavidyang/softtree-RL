@@ -4,7 +4,7 @@ This repository is associated with the following paper:
 
 > **Citation**
 >
-> Moayyedi, S.A., Yang, D.Y., 2026. Interpretable Deep Reinforcement Learning for Element-level Bridge Life-cycle Optimization.
+> Moayyedi, S.A., Yang, D.Y., 2026. Interpretable Deep Reinforcement Learning for Element-level Bridge Life-cycle Optimization. [arXiv:2604.02528](https://arxiv.org/abs/2604.02528).
 
 ## Overview
 
